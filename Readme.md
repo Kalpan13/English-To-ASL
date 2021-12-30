@@ -1,4 +1,4 @@
-# Setup Guide
+## Setup Guide
 
 1. Install the requirements using `pip install -r requirements.txt`
 
@@ -10,7 +10,7 @@
 
 
 
-# Code details 
+## Code details 
 
 download_video.py : Used for downloading ASL videos from website
 english_to_asl.py : Used for converting English Language to ASL
