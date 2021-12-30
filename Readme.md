@@ -6,7 +6,7 @@
 
 3. Use Record Audio button to speak. Try to speak slowly and clearly. Speech Recognition API fails to recognise words in some scenarios. 
 
-4. The video containing ASL gestures will be rendered after the wait of a few seconds.
+4. The video containing ASL gestures will be rendered after a few seconds.
 
 
 
