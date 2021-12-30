@@ -1,4 +1,4 @@
-Setup Guide
+# Setup Guide
 
 1. Install the requirements using `pip install -r requirements.txt`
 
@@ -10,7 +10,7 @@ Setup Guide
 
 
 
-Code details 
+# Code details 
 
 download_video.py : Used for downloading ASL videos from website
 english_to_asl.py : Used for converting English Language to ASL
@@ -20,6 +20,3 @@ ENG_ASL_Attention_Mechanism.ipynb : File used for model tranining. (I could not 
 static : stores the ASL sign videos generated
 ASL_gestures : stores gestures for each words (scrapped from website)
 
-
-
-Note : I had to remove tensorflow checkpoints of model because blackboard was not accepting larger zip files
